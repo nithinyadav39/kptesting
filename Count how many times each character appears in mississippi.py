@@ -4,6 +4,4 @@ for i in set(a):
     print(i,b)
 
 
-    "the test case is passed"
-
-    "the test case is passed"
+    
