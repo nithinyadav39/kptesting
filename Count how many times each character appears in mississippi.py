@@ -1,0 +1,4 @@
+a="mississippi"
+for i in set(a):
+    b=a.count(i)
+    print(i,b)
