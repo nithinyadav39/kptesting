@@ -1,0 +1,24 @@
+From 8662ef3949e21531d40e305ff8eecb82d804c8ef Mon Sep 17 00:00:00 2001
+From: nithin <kattanithinsatyanagyadav@kyndryl.com>
+Date: Wed, 29 Oct 2025 17:59:09 +0530
+Subject: [PATCH] test
+
+---
+ Count how many times each character appears in mississippi.py | 4 ++++
+ 1 file changed, 4 insertions(+)
+ create mode 100644 Count how many times each character appears in mississippi.py
+
+diff --git a/Count how many times each character appears in mississippi.py b/Count how many times each character appears in mississippi.py
+new file mode 100644
+index 0000000..aa7f107
+--- /dev/null
++++ b/Count how many times each character appears in mississippi.py	
+@@ -0,0 +1,4 @@
++a="mississippi"
++for i in set(a):
++    b=a.count(i)
++    print(i,b)
+\ No newline at end of file
+-- 
+2.51.1.windows.1
+
